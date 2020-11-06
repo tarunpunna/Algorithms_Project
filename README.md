@@ -1,3 +1,5 @@
-# Algorithms_Project
+# Image recognition to detect multiple attributes using Machine Learning
 
-Final Project of ML Algorithms!
+Final project for Machine Learning Algorithms - Durham College 
+
+
